@@ -1,21 +1,11 @@
-Airline,Type,Destination,Count
-ALASKA,on time,Los Angeles,497
-ALASKA,on time,Phoenix,221
-ALASKA,on time,San Diego,212
-ALASKA,on time,San Francisco,503
-ALASKA,on time,Seattle,1841
-ALASKA,delayed,Los Angeles,62
-ALASKA,delayed,Phoenix,12
-ALASKA,delayed,San Diego,20
-ALASKA,delayed,San Francisco,102
-ALASKA,delayed,Seattle,305
-AMWEST,on time,Los Angeles,694
-AMWEST,on time,Phoenix,4840
-AMWEST,on time,San Diego,383
-AMWEST,on time,San Francisco,320
-AMWEST,on time,Seattle,201
-AMWEST,delayed,Los Angeles,117
-AMWEST,delayed,Phoenix,415
-AMWEST,delayed,San Diego,65
-AMWEST,delayed,San Francisco,129
-AMWEST,delayed,Seattle,61
+Airline,Destination,On Time,Delayed
+ALASKA,Los Angeles,497,62
+ALASKA,Phoenix,221,12
+ALASKA,San Diego,212,20
+ALASKA,San Francisco,503,102
+ALASKA,Seattle,1841,305
+AMWEST,Los Angeles,694,117
+AMWEST,Phoenix,4840,415
+AMWEST,San Diego,383,65
+AMWEST,San Francisco,320,129
+AMWEST,Seattle,201,61
